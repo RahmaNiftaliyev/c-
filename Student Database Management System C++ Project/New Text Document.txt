@@ -1,0 +1,16 @@
+About Student Database Management System:
+Basic four features make up most of this project, but you can write your own code to add more features, and make this project more effective and better overall. You can add “Search Records” feature. Here’s a brief overview of the features:
+
+Add Records
+This feature allows you to add general information records. That includes the student’s name, course and section. All the added records in this student database management system are stored in file.
+List Records
+It lists all the added records from the first feature. There are some improvements you can make to this feature to make the list look more attractive.
+Modify Records
+This feature allows you to modify the added records. The modified records are stored in file.
+Delete Records
+This feature is for deleting the added students’ information from the file.
+Student Database Management System - Welcome Screen
+Welcome Screen
+Adding Record in Student Database System C++ Project
+Add Record
+Earlier, I had published a similar project – Student Record System in C; these two projects are similar to some extent in terms of features. I recommend you to use this student database management system as a reference project. It is a very simple project, so it can help you understand many new things if you are new to C++ projects.

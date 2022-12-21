@@ -1,0 +1,39 @@
+Sales Management System Project in C++
+
+
+Developed as a console application without graphics, this sales management system project in C++ is a very simple project related to general sales management. This project allows users to perform a vast number of functions, which I have briefly described below in this post. Understanding the source code of this project will teach you the effective use of file handling in C++ projects, and writing big and complex projects using multiple classes, functions and features.
+
+The source code of this project is complete and totally error-free. It is a bit long though – over 1200 lines. The source code of Sales Management System Project in C++ can be directly downloaded for free from the link provided below. And, you can refer the description provided here as an abstract of this project.
+
+Download Sales Management System C++ Project with Source Code
+[sociallocker]Download Sales Management System C++ Project with Source Code[/sociallocker]
+
+Sales Management System Project Abstract:
+Sales Management System Project in C++
+Sales Management System is a very large and complex project. It consists of various classes and sub-classes that further consist of many features and functions related to items entry, items recording, billing, and many more. Here, I will briefly describe the classes, their sub-classes and the features under them.
+
+Features:
+
+1. Menu:
+This class controls all the functions and is responsible for the functioning of all the features of this project. The sub-classes under this are ‘main menu’ and ‘edit menu’. The features under ‘main menu’ in this sales management system project in C++ are purchase products, list of products, edit products life and bills report. The ‘edit menu’ allows users to add, modify and delete products.
+
+2. Product:
+The ‘product’ class controls all the functions and features related to products/items. It is further divided into two sub-classes: public and private. Under ‘public’ sub-class, users can add, modify, list, purchase and delete products/items. Under the ‘private’ sub-class of sales management system project in C++, users can display, modify and delete records. Additional features in ‘private’ are returning the code of the last record in the product file, returning the record number of the given code in the product file, etc.
+
+
+3. Account:
+It controls all the functions in sales management system related to making bills. Like ‘product’, it is divided into ‘public’ and ‘private’ sub-classes. The ‘private’ is just for variable declaration, whereas the ‘public’ sub-class allows users to operate functions such as list bill, prepare bill, add bill, and more.
+
+Header Files Used:
+
+Sales management system is composed of some simple header files listed as below. To make the project simple and easy to understand, graphics has not been used in this C++ project. Before compiling the source code, make sure the header files listed below are available in your compiler library.
+
+#include <iostream.h>
+#include <fstream.h>
+#include <process.h>
+#include <string.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <ctype.h>
+#include <conio.h>
+#include <dos.h>
